@@ -1,0 +1,14 @@
+.card-img-top {
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+.card-img-top:hover {
+  transform: scale(1.1);
+}
+.person-photo {
+  max-width: 200px; /* set the maximum width to 200 pixels */
+  height: auto; /* let the height adjust automatically to maintain the aspect ratio */
+}

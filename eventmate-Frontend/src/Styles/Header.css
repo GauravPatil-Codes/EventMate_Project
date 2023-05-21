@@ -1,0 +1,9 @@
+.heading {
+  font-size: 80px;
+  font-family: "Great Vibes", cursive;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 2px;
+  line-height: 1.2;
+}

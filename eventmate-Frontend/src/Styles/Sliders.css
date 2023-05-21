@@ -1,0 +1,20 @@
+.slider-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.SimpleImageSlider__Bullet {
+  background-color: #6c7ac9;
+}
+.SimpleImageSlider__NavIcon {
+  color: #6c7ac9;
+}
+.SimpleImageSlider__NavIcon:hover {
+  color: #8e9ae1;
+}
+.SimpleImageSlider__Image {
+  border-radius: 10px;
+}

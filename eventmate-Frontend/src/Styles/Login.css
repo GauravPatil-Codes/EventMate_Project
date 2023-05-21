@@ -1,0 +1,29 @@
+h3 {
+  font-style: oblique;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #4b2e83; /* dark purple */
+}
+
+.label {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #777; /* gray */
+  font-size: larger;
+}
+
+.btn {
+  background-color: #f7b7c0; /* light pink */
+  color: white;
+}
+
+.btn:hover {
+  font-size: larger;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+}
+
+.card-body {
+  background-color: #f3e6f3; /* light purple */
+}
